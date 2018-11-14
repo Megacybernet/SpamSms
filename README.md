@@ -1,7 +1,7 @@
 # SpamSms
 
-Kumpulan Beberapa Script Spam Sms Buatan Para Mastah.
+Kumpulan Beberapa Script Spam Sms.
 
-Saya Hanya Bantu Nyusun Agar Lebih Mudah Di Gunakan Saja.
+Gunakan dengan Bijak.
 
-Tutorial install di www.gebangkiidiw.com
+Created By. Andrean Ms
